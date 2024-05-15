@@ -90,3 +90,4 @@ git remote add origin https://github.com/ifex445/boiler-plate.git
 git branch -M main
 echo hello terminal
 pwd
+ls --color=auto
