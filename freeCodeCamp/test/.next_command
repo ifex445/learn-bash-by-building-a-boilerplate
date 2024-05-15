@@ -100,3 +100,8 @@ ls --color=auto
 lslscd ..
 cd ..
 cd ..
+ls --color=auto
+ls --color=auto
+ls --color=auto
+cd freeCodeCamp
+ls --color=auto
