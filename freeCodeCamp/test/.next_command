@@ -105,3 +105,4 @@ ls --color=auto
 ls --color=auto
 cd freeCodeCamp
 ls --color=auto
+more package.json
